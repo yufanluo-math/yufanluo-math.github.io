@@ -1,33 +1,6 @@
 ---
 layout: compress
 ---
-
-{% include base_path %}
-
-<!doctype html>
-<html lang="{{ site.locale | slice: 0,2 }}" class="no-js"{% if site.site_theme == "dark" %} data-theme="dark"{% endif %}>
-  <head>
-  <script type="text/javascript"
-  async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
-
-  </head>
-
-  <body>
-
-
-
-    {{ content }}
-
-    <div class="page__footer">
-      <footer>
-      
-        
-      </footer>
-    </div>
-
-    {% include scripts.html %}
-
-  </body>
-</html>
+{% include base_path %} {% include head.html %} {% include head/custom.html %} {% include browser-upgrade.html %} {% include masthead.html %} {{ content }}
+{% include footer/custom.html %} {% include footer.html %}
+{% include scripts.html %}
