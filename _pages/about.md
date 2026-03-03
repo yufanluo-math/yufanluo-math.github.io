@@ -28,6 +28,11 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 * [Some cases of the unramified Fontaine–Mazur conjecture](https://www.worldscientific.com/doi/10.1142/S1793042125500514). <br> *International Journal of Number Theory 21*, no. 05 (2025): 1017-1027.
 * Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153). (2018)
 
+## Teaching
+* Spring 2026, Galois cohomology of number fields, SIMIS
+* Fall 2025, Cohomology theory of profinite groups, SIMIS
+* Spring 2025, Profinite group theory, SIMIS
+
 
 
 
