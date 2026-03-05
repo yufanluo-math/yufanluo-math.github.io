@@ -32,6 +32,10 @@ author:
   uri              : # URL
   email            : "none@example.org" 
 
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
+  
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
