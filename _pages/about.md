@@ -1,5 +1,4 @@
 ---
-layout: single
 permalink: /
 title: "Yufan Luo's Homepage"
 author_profile: false
