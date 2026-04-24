@@ -33,6 +33,7 @@ I am a Postdoctoral Researcher at Shanghai Institute for Mathematics and Interdi
 My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in employing group-theoretic and cohomological techniques to address number-theoretic problems, with an emphasis on understanding the structure of Galois groups of global fields with restricted ramification.
 
 ## Publications and preprints
+* A finiteness theorem for mod $p$ Galois representations over global function fields. <br> Submitted for publication.
 * Finiteness of Tame Galois Representations with Noetherian Image in Positive Characteristic. <br> Submitted for publication.
 * Counterexamples to a conjecture of Tsfasman and Vladut. <br> Submitted for publication.
 * A non-abelian free pro-$p$ group is not linear over a pro-$p$ ring of Krull dimension one.  <br> Submitted for publication.
