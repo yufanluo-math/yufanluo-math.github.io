@@ -35,7 +35,6 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 ## Publications and preprints
 * A finiteness theorem for mod $p$ Galois representations over global function fields. <br> Submitted for publication.
 * Finiteness of Tame Galois Representations with Noetherian Image in Positive Characteristic. <br> Submitted for publication.
-* Counterexamples to a conjecture of Tsfasman and Vladut. <br> Submitted for publication.
 * A non-abelian free pro-$p$ group is not linear over a pro-$p$ ring of Krull dimension one.  <br> Submitted for publication.
 * Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication. 
 * On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). Submitted for publication.
@@ -46,6 +45,9 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 *  A characteristic-$ p $-valued version of Sheaves-function dictionary of Deligne. <br> Submitted for publication.
 * A short note on lifting mod $p$ representations of arithmetic fundamental groups over finite fields of characteristic $p$. <br> Submitted for publication.
 * Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (2018).
+
+## Other writings
+* Counterexamples to a conjecture of Tsfasman and Vladut. 
 
 ## Teaching
 * Spring 2026, Galois cohomology of number fields, SIMIS
