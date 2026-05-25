@@ -35,7 +35,6 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 ## Publications and preprints
 * A finiteness theorem for mod $p$ Galois representations over global function fields. <br> Submitted for publication.
 * Finiteness of Tame Galois Representations with Noetherian Image in Positive Characteristic. <br> Submitted for publication.
-* A non-abelian free pro-$p$ group is not linear over a pro-$p$ ring of Krull dimension one.  <br> Submitted for publication.
 * Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication. 
 * On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). Submitted for publication.
 * [Geometrization of $p$-adic characters of $\mathbb{Z}_{p}$](https://doi.org/10.1007/s40316-026-00271-4). <br> *Annales mathématiques du Québec*. (2026). Published online.
