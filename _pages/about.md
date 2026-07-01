@@ -30,7 +30,7 @@ I am a Postdoctoral Researcher at Shanghai Institute for Mathematics and Interdi
 * Address: Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China
 
 ## Research 
-My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in employing group-theoretic and cohomological techniques to address number-theoretic problems, with an emphasis on understanding the structure of Galois groups of global fields with restricted ramification.
+My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in applying group-theoretic and cohomological methods to number-theoretic problems, especially those concerning Galois groups of global fields with restricted ramification, representations of étale fundamental groups of algebraic varieties, and finiteness problems arising in arithmetic geometry.
 
 ## Publications and preprints
 * On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
