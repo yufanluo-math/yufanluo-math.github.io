@@ -33,7 +33,9 @@ I am a Postdoctoral Researcher at Shanghai Institute for Mathematics and Interdi
 My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in employing group-theoretic and cohomological techniques to address number-theoretic problems, with an emphasis on understanding the structure of Galois groups of global fields with restricted ramification.
 
 ## Publications and preprints
-* On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [http://arxiv.org/abs/2606.31341] Submitted for publication.
+* On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
+http://arxiv.org/abs/2606.31341](
+http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 * Finiteness of Tame Galois Representations with Noetherian Image in Positive Characteristic. <br> Submitted for publication.
 * Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication. 
 * On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). Submitted for publication.
