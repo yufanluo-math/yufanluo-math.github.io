@@ -36,7 +36,6 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 * On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
 http://arxiv.org/abs/2606.31341](
 http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
-* Finiteness of Tame Galois Representations with Noetherian Image in Positive Characteristic. <br> Submitted for publication.
 * Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication. 
 * On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). Submitted for publication.
 * [A finiteness theorem for mod $p$ Galois representations over global function fields](https://link.springer.com/article/10.1007/s11139-026-01427-0). <br>  *The Ramanujan Journal*. (2026). Published online. [Arxiv version](http://arxiv.org/abs/2606.29277)
