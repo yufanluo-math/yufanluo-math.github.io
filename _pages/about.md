@@ -25,12 +25,11 @@ I am a Postdoctoral Researcher at [Shanghai Institute for Mathematics and Interd
 
 ## I am currently seeking my next academic position. Please feel free to contact me!
 
-* Email: yufanluo@hotmail.com
-* ORCiD: [https://orcid.org/0009-0007-3773-4912](https://orcid.org/0009-0007-3773-4912)
-* Address: Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China
 
 ## Research 
 My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in applying group-theoretic and cohomological methods to number-theoretic problems, especially those concerning Galois groups of global fields with restricted ramification, representations of étale fundamental groups of algebraic varieties, and finiteness problems arising in arithmetic geometry.
+
+Always open to mathematical discussions and potential research collaborations! If you are interested in my work or related areas, please do not hesitate to contact me—I look forward to hearing from you.
 
 ## Publications and preprints
 * On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
@@ -55,6 +54,11 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 * Spring 2026, Galois cohomology of number fields, SIMIS
 * Fall 2025, Cohomology theory of profinite groups, SIMIS
 * Spring 2025, Profinite group theory, SIMIS
+
+## Contact
+* Email: yufanluo@hotmail.com
+* ORCiD: [https://orcid.org/0009-0007-3773-4912](https://orcid.org/0009-0007-3773-4912)
+* Address: Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China
 
 
 
