@@ -23,13 +23,11 @@ I know that I know nothing.
 ## About me
 I am a Postdoctoral Researcher at [Shanghai Institute for Mathematics and Interdisciplinary Sciences (SIMIS)](https://www.simis.cn/). I obtained my Ph.D. in Natural Sciences at Humboldt-Universität zu Berlin in 2023, under the supervision of [Prof. Dr. Elmar Große-Klönne](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/arithmetische-geometrie-und-zahlentheorie/grosse-kloenne). Before that, I was a graduate student under the supervision of [Prof. Bingyong Xie（谢兵永）](https://math.ecnu.edu.cn/~byxie/intro_c.html?language=1&id=165).
 
-## I am currently seeking my next academic position. Please feel free to contact me!
+### I am currently seeking my next academic position. Please feel free to contact me!
 
 
 ## Research 
 My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in applying group-theoretic and cohomological methods to number-theoretic problems, especially those concerning Galois groups of global fields with restricted ramification, representations of étale fundamental groups of algebraic varieties, and finiteness problems arising in arithmetic geometry.
-
-Always open to mathematical discussions and potential research collaborations! If you are interested in my work or related areas, please do not hesitate to contact me.
 
 ## Publications and preprints
 * On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
@@ -56,6 +54,8 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 * Spring 2025, Profinite group theory, SIMIS
 
 ## Contact
+Always open to mathematical discussions and potential research collaborations! If you are interested in my work or related areas, please do not hesitate to contact me.
+
 * Email: yufanluo@hotmail.com
 * ORCiD: [https://orcid.org/0009-0007-3773-4912](https://orcid.org/0009-0007-3773-4912)
 * Address: Block A, International Innovation Plaza, No. 657 Songhu Road, Yangpu District, Shanghai, China
