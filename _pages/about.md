@@ -49,6 +49,7 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 * Counterexamples to a conjecture of Tsfasman and Vladut. 
 
 ## Teaching
+* Fall 2026,  Topics in cohomology theory of number fields, SIMIS.
 * Spring 2026, Galois cohomology of number fields, SIMIS
 * Fall 2025, Cohomology theory of profinite groups, SIMIS
 * Spring 2025, Profinite group theory, SIMIS
