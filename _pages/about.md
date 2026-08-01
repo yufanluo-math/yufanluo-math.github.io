@@ -43,10 +43,11 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 9. Tame Galois representations over profinite rings and noetherian linear groups.  <br> Submitted for publication.
 10. A characteristic-$ p $-valued version of Sheaves-function dictionary of Deligne. <br> Submitted for publication.
 11. A short note on lifting mod $p$ representations of arithmetic fundamental groups over finite fields of characteristic $p$. <br> Submitted for publication.
-12. Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (2018).
-
+    
 ## Other writings
-* Counterexamples to a conjecture of Tsfasman and Vladut. 
+* Counterexamples to a conjecture of Tsfasman and Vladut.
+* Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (Master's thesis).
+
 
 ## Teaching
 * Fall 2026,  Topics in cohomology theory of number fields, SIMIS.
