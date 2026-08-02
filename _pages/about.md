@@ -29,6 +29,8 @@ I am a Postdoctoral Researcher at [Shanghai Institute for Mathematics and Interd
 ## Research 
 My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in applying group-theoretic and cohomological methods to number-theoretic problems, especially those concerning Galois groups of global fields with restricted ramification, representations of étale fundamental groups of algebraic varieties, and finiteness problems arising in arithmetic geometry.
 
+
+
 ## Publications and preprints
 1. On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
 http://arxiv.org/abs/2606.31341](
@@ -43,7 +45,8 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 9. Tame Galois representations over profinite rings and noetherian linear groups.  <br> Submitted for publication.
 10. A characteristic-$ p $-valued version of Sheaves-function dictionary of Deligne. <br> Submitted for publication.
 11. A short note on lifting mod $p$ representations of arithmetic fundamental groups over finite fields of characteristic $p$. <br> Submitted for publication.
-    
+<script>document.querySelector('#publications-and-preprints + ol').reversed = true;</script>
+ 
 ## Other writings
 * Counterexamples to a conjecture of Tsfasman and Vladut.
 * Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (Master's thesis).
