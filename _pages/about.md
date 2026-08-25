@@ -61,7 +61,7 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 * Spring 2025, Profinite group theory, SIMIS
 
 ## Contact
-Always open to mathematical discussions and potential research collaborations! If you are interested in my work or related areas, please do not hesitate to contact me.
+Always open to mathematical discussions and potential research collaborations.
 
 * Email: yufanluo@hotmail.com
 * ORCiD: [https://orcid.org/0009-0007-3773-4912](https://orcid.org/0009-0007-3773-4912)
