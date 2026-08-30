@@ -33,7 +33,6 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 
 ## Publications and preprints
 1. On the bounded-conductor finiteness conjecture in equal characteristic. (With Yiqi Xu) <br> In preparation.
-1. Unramified pro-$p$ extensions with $\mathbb F_p[[T]]$-perfect Galois groups. <br> In preparation.
 1. On the Finiteness of Geometric Representations for Varieties over Finite Fields. <br> [
 http://arxiv.org/abs/2606.31341](
 http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
