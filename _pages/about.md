@@ -42,7 +42,6 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 8. [The topological Tits alternative for linear groups over commutative profinite rings](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2608664). <br> *Communications in Algebra*. (2026) Published online.
 9. [Remarks on the Boston's Unramified Fontaine-Mazur Conjecture](https://www.sciencedirect.com/science/article/abs/pii/S0022314X2500280X). <br> *Journal of Number Theory*. Volume 281, (2026): 96-109.
 10. [Some cases of the unramified Fontaine–Mazur conjecture](https://www.worldscientific.com/doi/10.1142/S1793042125500514). <br> *International Journal of Number Theory 21*, no. 05 (2025): 1017-1027.
-11. Tame Galois representations over profinite rings and noetherian linear groups.  <br> Submitted for publication.
 12. A characteristic-$ p $-valued version of Sheaves-function dictionary of Deligne. <br> Submitted for publication.
 13. A short note on lifting mod $p$ representations of arithmetic fundamental groups over finite fields of characteristic $p$. <br> Submitted for publication.
 <script>document.querySelector('#publications-and-preprints + ol').reversed = true;</script>
