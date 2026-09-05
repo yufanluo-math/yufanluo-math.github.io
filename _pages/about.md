@@ -47,7 +47,7 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 <script>document.querySelector('#publications-and-preprints + ol').reversed = true;</script>
  
 ## Other writings
-* Counterexamples to a conjecture of Tsfasman and Vladut. (files/counterexample.pdf)
+* Counterexamples to a conjecture of Tsfasman and Vladut. [PDF](/counterexample.pdf)
 * Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (Master's thesis).
 
 
