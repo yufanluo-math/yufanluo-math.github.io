@@ -46,6 +46,7 @@ http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
  
 ## Other writings
 * Counterexamples to a conjecture of Tsfasman and Vladut. [PDF](/counterexample.pdf)
+* On the Boston's Unramified Fontaine-Mazur Conjecture.  <br> [https://arxiv.org/abs/2404.18967v1](https://arxiv.org/abs/1811.01153) (Ph.D. thesis). Part of the results are contained in [Some cases of the unramified Fontaine–Mazur conjecture](https://www.worldscientific.com/doi/10.1142/S1793042125500514) and [Remarks on the Boston's Unramified Fontaine-Mazur Conjecture](https://www.sciencedirect.com/science/article/abs/pii/S0022314X2500280X).
 * Hodge-type decomposition for de Rham cohomology of $p$-adically uniformized varieties. <br> [https://arxiv.org/abs/1811.01153](https://arxiv.org/abs/1811.01153) (Master's thesis).
 
 
