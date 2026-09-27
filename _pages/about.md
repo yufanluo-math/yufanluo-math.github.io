@@ -40,9 +40,9 @@ http://arxiv.org/abs/2606.31341](
 http://arxiv.org/abs/2606.31341) (2026). Submitted for publication.
 3. Remarks on the Boston Unramified Fontaine-Mazur Conjecture, II. <br>  [https://arxiv.org/abs/2601.20395](https://arxiv.org/abs/2601.20395)(2026). Submitted for publication.
 5. On the second partial Global Euler-Poincaré characteristics for Galois cohomology. <br> [https://arxiv.org/abs/2509.03218](https://arxiv.org/abs/2509.03218) (2025). Submitted for publication.
-6. [A finiteness theorem for mod $p$ Galois representations over global function fields](https://link.springer.com/article/10.1007/s11139-026-01427-0). <br>  *The Ramanujan Journal*. (2026). Published online. [Arxiv version](http://arxiv.org/abs/2606.29277)
+6. [A finiteness theorem for mod $p$ Galois representations over global function fields](https://link.springer.com/article/10.1007/s11139-026-01427-0). <br>  *The Ramanujan Journal*. 70 (2026), no. 3, Paper No. 50, 7 pp. [Arxiv version](http://arxiv.org/abs/2606.29277)
 7. [Geometrization of $p$-adic characters of $\mathbb{Z}_{p}$](https://doi.org/10.1007/s40316-026-00271-4). <br> *Annales mathématiques du Québec*. (2026). Published online.
-8. [The topological Tits alternative for linear groups over commutative profinite rings](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2608664). <br> *Communications in Algebra*. (2026) Published online.
+8. [The topological Tits alternative for linear groups over commutative profinite rings](https://www.tandfonline.com/doi/full/10.1080/00927872.2025.2608664). <br> *Communications in Algebra*. Volume 54, 2026 - Issue 12. 
 9. [Remarks on the Boston's Unramified Fontaine-Mazur Conjecture](https://www.sciencedirect.com/science/article/abs/pii/S0022314X2500280X). <br> *Journal of Number Theory*. Volume 281, (2026): 96-109.
 10. [Some cases of the unramified Fontaine–Mazur conjecture](https://www.worldscientific.com/doi/10.1142/S1793042125500514). <br> *International Journal of Number Theory 21*, no. 05 (2025): 1017-1027.
 <script>document.querySelector('#publications-and-preprints + ol').reversed = true;</script>
