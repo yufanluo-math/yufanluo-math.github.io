@@ -32,7 +32,7 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 
 
 ## Publications and preprints
-1. On Boston's Unramified Conjecture for $GL_2$ and McLeman's $(3,3)$-Conjecture. In preparation.
+1. On Boston's Unramified Conjecture for $GL_2$ and McLeman's $(3,3)$-Conjecture. <br>[http://arxiv.org/abs/2609.37252](http://arxiv.org/abs/2609.37252)
 1. On the bounded-conductor finiteness conjecture in equal characteristic. (With Yiqi Xu) <br> [
 http://arxiv.org/abs/2609.11456](
 http://arxiv.org/abs/2609.11456).  Submitted for publication.
