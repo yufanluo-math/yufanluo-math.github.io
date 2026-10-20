@@ -27,7 +27,7 @@ I am a Postdoctoral Researcher at [Shanghai Institute for Mathematics and Interd
 
 
 ## Research 
-My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in applying group-theoretic and cohomological methods to number-theoretic problems, especially those concerning Galois groups of global fields with restricted ramification, representations of étale fundamental groups of algebraic varieties, and finiteness problems arising in arithmetic geometry.
+My research interests lie in algebraic number theory, group theory, and arithmetic geometry. I am particularly interested in applying group-theoretic and cohomological methods to number-theoretic problems, especially those concerning Galois groups of global fields with restricted ramification, lifting mod $p$ Galois representations and Galois deformation theory, and finiteness problems arising in arithmetic geometry.
 
 
 
