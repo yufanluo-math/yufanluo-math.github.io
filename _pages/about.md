@@ -32,7 +32,7 @@ My research interests lie in algebraic number theory, group theory, and arithmet
 
 
 ## Publications and preprints
-1.  Lifting mod $p$ Galois representations over local fields. <br>[http://arxiv.org/abs/2610](http://arxiv.org/abs/).   Submitted for publication.
+1.  Lifting mod $p$ Galois representations over local fields. <br>[https://arxiv.org/abs/2610.38581](https://arxiv.org/abs/2610.38581).   Submitted for publication.
 1. On the dimension conjecture for global Galois deformation rings in characteristic two. <br>[http://arxiv.org/abs/2610.21298](http://arxiv.org/abs/2610.21298).
 2. On Boston's Unramified Conjecture for $GL_2$ and McLeman's $(3,3)$-Conjecture. <br>[http://arxiv.org/abs/2609.37252](http://arxiv.org/abs/2609.37252).
 1. On the bounded-conductor finiteness conjecture in equal characteristic. (With Yiqi Xu) <br> [
